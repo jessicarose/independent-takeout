@@ -6,7 +6,9 @@ Folks who are staying in can continue to support independent businesses by order
 
 To create your own local list
 ----------
-Please use the format COUNTRYABBREVIATION-City.md to create a new markdown file for your area and submit it as a pull request. Feel free to make categories for popular area types of food.
+Please use the format COUNTRYABBREVIATION-City.md to create a new markdown file for your area and submit it as a pull request. Feel free to make categories for popular area types of food. 
+
+Countries that may have multiple cities with the same name (looking at you, USA), please use the format COUNTRYABBREVIATION-STATEABBREVIATION-city.md, for example. USA-NC-Washington.md would cover little Washington NC, which USA-IL-Washington.md would work for Washington Illinois.
 
 To add a listing
 -------
