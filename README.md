@@ -4,6 +4,10 @@ Everything's a little scary right now. Many folks who can stay inside and limit 
 
 Folks who are staying in can continue to support independent businesses by ordering takeaway/takeout/delivery. Please add your fav local delivery places and remember to tip well and limit exposure for your delivery drivers.
 
+Is it safe to eat takeout?
+---------
+[The Atlantic](https://www.theatlantic.com/health/archive/2020/03/coronavirus-how-get-food-safely/608008/) asked experts who say largely, yes. However, they warn that delivery drivers are at higher risk. Please tip well and give folks delivering your food ways to deliver that don't involved interacting with you.
+
 To create your own local list
 ----------
 Please use the format COUNTRYABBREVIATION-City.md to create a new markdown file for your area and submit it as a pull request. Feel free to make categories for popular area types of food. 
