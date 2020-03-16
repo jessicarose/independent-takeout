@@ -10,6 +10,6 @@ Please use the format COUNTRYABBREVIATION-City.md to create a new markdown file 
 
 To add a listing
 -------
-Please add the listing as an unordered bullet point listing first the name of the resturant, then a short description. Then list their delivery area and details.
+Please add the listing as an unordered bullet point listing first the name of the resturant, then a short description. Then list their delivery area and details. Here's an example:
 
 * [Mr Singh's Pizza](http://www.mrsinghspizza.co.uk/): All vegeterian pizza. Delivery areas cover from Handworth to Bham city center and West Bromwich. Call them to order.
