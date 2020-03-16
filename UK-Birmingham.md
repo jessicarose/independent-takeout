@@ -1,6 +1,7 @@
 Pizza
 --------
 * [Mr Singh's Pizza](http://www.mrsinghspizza.co.uk/): All vegeterian pizza. Delivery areas cover from Handworth to Bham city center and West Bromwich. Call them to order.
+* [Alicia's Micro Bakehouse](http://www.aliciasmicrobakehouse.co.uk): Woodfired pizza. Usually books up delivery slots quickly, so call as soon after opening as possible. Stirchley/Cotteridge/Bournville area covered.
 
 Japanese and Sushi
 ------
