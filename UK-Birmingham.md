@@ -4,7 +4,7 @@ Pizza
 
 Japanese and Sushi
 ------
-*[Gaijin Sushi](https://www.gaijinsushi.co.uk/): Small local sushi shop, pre-emptively shut their dining room to reduce risk to diners. City center deliveries, order via [Deliveroo](https://deliveroo.co.uk/).
+* [Gaijin Sushi](https://www.gaijinsushi.co.uk/): Small local sushi shop, pre-emptively shut their dining room to reduce risk to diners. City center deliveries, order via [Deliveroo](https://deliveroo.co.uk/).
 
 Chinese
 -------
