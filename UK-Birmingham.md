@@ -17,6 +17,7 @@ Indian
 -------
 * [Alleppey Boat](http://www.alleppeyboat.co.uk/): Probably the best Indian in the Hall Green/Solihull area, especially if you love Keralan food. The lamb pasanda is very nice in particular. Order on [Deliveroo](https://deliveroo.co.uk/).
 * [Raja Monkey](http://www.rajamonkey.co.uk/wp-content/uploads/2013/09/Raja-Monkey-Main-Menu.pdf): Authentically spicy and delicious Indian street food, famous for their stuffed dosas. A wide range of very good **gluten free** options. Order on [Deliveroo](https://deliveroo.co.uk/).
+* [The Merrymaid Bar and Grill](https://www.facebook.com/TheMerrymaid): **(TAKEAWAY ONLY - NO DELIVERY)** One of the best places to get a mixed grill from. Keep an eye on their Facebook page for they're open (they only open for a select few hours)
 
 Fish & Chips
 --------
